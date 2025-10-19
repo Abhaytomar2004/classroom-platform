@@ -311,18 +311,18 @@ Complete guide to all features available in SikshaLink Classroom Platform.
 ## 🔔 Notifications
 
 ### Notification Types
-**📅 Schedule Notifications**
+### 📅 Schedule Notifications
 - Upcoming class reminders
 - Assignment due dates
 - Payment deadlines
 
-**🎯 Activity Notifications**
+### 🎯 Activity Notifications
 - New assignment posted
 - Grade updates
 - Resource uploads
 - Mentorship requests
 
-**💰 Payment Notifications**
+### 💰 Payment Notifications
 - Payment success/failure
 - Fee due reminders
 - Receipt generation
