@@ -138,7 +138,7 @@ Complete guide to all features available in SikshaLink Classroom Platform.
 - Rich text editor for instructions
 - File attachment support
 - Automatic due date reminders
-- Plagiarism check integration
+- Future plagiarism check integration (planned)
 
 ### Submit Assignment (Students)
 **Steps:**
@@ -219,7 +219,7 @@ Complete guide to all features available in SikshaLink Classroom Platform.
 - Visual attendance charts
 - Percentage calculations
 - Absence reason tracking
-- Parent portal integration
+- Future parent portal integration (planned)
 
 ---
 
@@ -300,7 +300,7 @@ Complete guide to all features available in SikshaLink Classroom Platform.
 5. Start receiving requests
 
 **Features:**
-- Mentor-student matching algorithm
+- Basic mentor-student connection system
 - Session scheduling
 - Progress tracking
 - Feedback and rating system
@@ -384,7 +384,7 @@ Complete guide to all features available in SikshaLink Classroom Platform.
 **A:** Click "Forgot Password" on login page, enter email, check inbox for reset link.
 
 ### Q: Can I download class recordings?
-**A:** Yes, if teacher has enabled recording download permission.
+**A:** Recording download feature is planned for future release.
 
 ### Q: How are payments secured?
 **A:** We use PCI-DSS compliant payment gateways with SSL encryption.
@@ -401,8 +401,8 @@ Complete guide to all features available in SikshaLink Classroom Platform.
 
 - 📖 Check our [Setup Guide](./SETUP_GUIDE.md) for installation help
 - 🐛 [Report Issues](https://github.com/ratna-jaiswal/classroom-platform/issues) on GitHub
-- 💬 [Join Community](https://github.com/ratna-jaiswal/classroom-platform/discussions) for discussions
-- 📧 Email support: [Add support email]
+- 💬 [Join Community](https://github.com/ratna-jaiswal/classroom-platform) for discussions
+- 📧 Email support: support@example.com
 
 ---
 
